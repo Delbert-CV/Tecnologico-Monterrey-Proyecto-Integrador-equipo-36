@@ -1,3 +1,36 @@
+# Datafiles ignored
+*.csv
+*.xlsx
+*.json
+data/
+datasets/
+
+# Modelos entrenados
+*.pkl
+*.joblib
+*.h5
+*.pb
+models/
+checkpoints/
+
+# Credenciales
+
+.env
+config.ini
+secrets.json
+
+
+# Media
+*.jpg
+*.jpeg
+*.png
+*.gif
+images/
+media/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
