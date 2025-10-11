@@ -10,7 +10,7 @@
 
 # Finalidad
 
-Se creó este repositorio para el versionamiento y comprobación de los avances avances del proyecto integrador asignado.
+Se creó este repositorio para el versionamiento y comprobación de los avances del proyecto integrador asignado.
 
 # Proyecto integrador: reporte de problemas fitosanitarios en plantaciones de agave
 
