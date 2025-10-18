@@ -246,3 +246,14 @@ Baseline/agave_location.jsonl
 Baseline/agave_plantation.jsonl
 Baseline/agave_risk.jsonl
 Baseline/rag_faiss_store/index.faiss
+Modelos alternativos/catboost_info/learn_error.tsv
+Modelos alternativos/catboost_info/test_error.tsv
+Modelos alternativos/catboost_info/time_left.tsv
+Modelos alternativos/catboost_info/learn/events.out.tfevents
+Modelos alternativos/catboost_info/test/events.out.tfevents
+Modelos alternativos/catboost_info/tmp/cat_feature_index.3aff2d75-baa0ac57-e97ae6a8-3ef89ee7.tmp
+Modelos alternativos/catboost_info/tmp/cat_feature_index.65e89d14-10441ebb-2ced235f-879eeb00.tmp
+Modelos alternativos/catboost_info/tmp/cat_feature_index.229543ed-294595c8-fe5740bf-4847f21e.tmp
+Modelos alternativos/catboost_info/tmp/cat_feature_index.cd13a761-ad2030a6-5c834521-ebd9860b.tmp
+Modelos alternativos/catboost_info/tmp/cat_feature_index.d9ddd8b3-b937c516-15b1bc0c-5b88619c.tmp
+Modelos alternativos/catboost_info/tmp/cat_feature_index.f1fcf99c-3bd8cfea-18c75e5c-95ec060f.tmp
