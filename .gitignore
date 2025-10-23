@@ -257,3 +257,9 @@ Modelos alternativos/catboost_info/tmp/cat_feature_index.229543ed-294595c8-fe574
 Modelos alternativos/catboost_info/tmp/cat_feature_index.cd13a761-ad2030a6-5c834521-ebd9860b.tmp
 Modelos alternativos/catboost_info/tmp/cat_feature_index.d9ddd8b3-b937c516-15b1bc0c-5b88619c.tmp
 Modelos alternativos/catboost_info/tmp/cat_feature_index.f1fcf99c-3bd8cfea-18c75e5c-95ec060f.tmp
+Modelo final/catboost_info
+Modelo final/VotingClassifier_Optim.db
+Modelo final/Stacking_Optim_RF.db
+Modelo final/LightGBM_Class1_Optim.db
+Modelo final/LGBM_Class0_spec.db
+Modelo final/LGBM_Class0_spec_2.db
