@@ -263,3 +263,4 @@ Modelo final/Stacking_Optim_RF.db
 Modelo final/LightGBM_Class1_Optim.db
 Modelo final/LGBM_Class0_spec.db
 Modelo final/LGBM_Class0_spec_2.db
+SMOTE-PCA-TSNE/SMOTE_LightGBM_Optim.db
